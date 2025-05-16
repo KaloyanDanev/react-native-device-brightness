@@ -1,5 +1,5 @@
 {
-  "name": "@adrianso/react-native-device-brightness",
+"name": "react-native-device-brightness",
   "version": "1.2.7",
   "description": "Screen brightness adjustment tool for React Native",
   "homepage": "https://github.com/adrianso/react-native-device-brightness#readme",
